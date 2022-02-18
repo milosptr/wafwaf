@@ -4,7 +4,7 @@ layout: post
 published_at: 2022-02-14 14:40:23 +0000
 title: 'Narozeniny, oslavy a nebo rezervace ve Waf-Waf? Říkáme ano! '
 excerpt: 'Narozeniny, oslavy a nebo rezervace ve Waf-Waf? Říkáme ano! '
-post_url: www.waf-waf.cz/oslava-narozenin
+post_url: ''
 
 ---
 Plníme Vaše přání. V poslední době se množily Vaše dotazy ohledně možnosti uspořádání oslav narozenin či dalších soukromých příležitostí. My říkáme ano, bude pro nás potěšením Vám dopřát tento zážitek. Stačí se obrátit na telefonní kontakt dle vybrané pobočky a nebo do našich kanceláří: +420 602 368 532 a projdeme si Váš event a nebo uděláme rezervaci na Vámi vybraný počet míst.   
